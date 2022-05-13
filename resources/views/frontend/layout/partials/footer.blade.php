@@ -236,7 +236,7 @@
 			</div>
 		</div>
 	</div>
-	<a href="#"><i class="fa fa-whatsapp fa-4x" aria-hidden="true"></i></a>
+	<a href="#"><i style="color:green;" class="fa fa-whatsapp fa-4x"></i></a>
 	<div class="cat-footer-copyright">
 	
 		<p>
