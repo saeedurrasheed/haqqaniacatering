@@ -1,5 +1,6 @@
 <?php
-Route::redirect('/', 'admin/home');
+Route::get('/', 'FrontEnd\HomeController@dashboard');
+//Route::redirect('/', 'admin/home');
 
 Auth::routes(['register' => false]);
 
