@@ -236,7 +236,7 @@
 			</div>
 		</div>
 	</div>
-	<a href="#"><i style="color:green;" class="fa fa-whatsapp fa-4x"></i></a>
+	<a title="Lets chat with whats app" href="https://wa.me/+923008596838?text=I'm%20interested%20in%20event"><i style="color:green;" class="fa fa-whatsapp fa-4x"></i></a>
 	<div class="cat-footer-copyright">
 	
 		<p>
