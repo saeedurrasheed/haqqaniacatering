@@ -534,7 +534,7 @@ a.btn-black:active {
     padding: 10px 10px;
     display: inline-block;
     font-weight: 700;
-    color: var(--cat-title-color);
+    color: #ffffff;
     text-transform: capitalize;
     font-size: var(--cat-font14);
 }

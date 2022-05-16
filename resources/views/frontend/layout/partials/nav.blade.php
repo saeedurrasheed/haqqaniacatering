@@ -1,6 +1,6 @@
 <!-- Header Start -->
 <header>
-        <div class="header-wrapper">
+        <div class="header-wrapper" style="background: black;">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-2 col-lg-3 col-md-3 col-sm-4 col-4">
